@@ -1,1 +1,4 @@
-asdf
+public class newff{
+	
+}
+
